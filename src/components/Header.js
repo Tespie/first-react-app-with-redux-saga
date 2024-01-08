@@ -10,7 +10,7 @@ export default function Header() {
         <div className='header'>
             <div className='cart-div'>
                 <span>{result.length}</span>
-                <img src='https://cdn-icons-png.flaticon.com/512/263/263142.png' alt=''></img>
+                <img src='https://cdn2.vectorstock.com/i/1000x1000/06/01/black-shopping-cart-icon-on-transparent-background-vector-22510601.jpg' alt=''></img>
             </div>
             Learn Redux in React
         </div>
