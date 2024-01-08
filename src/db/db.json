@@ -1,0 +1,40 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "Dell Inspiron 14 5430",
+            "category": "laptop",
+            "color": "black",
+            "price": 75000,
+            "brand": "Dell",
+            "photo": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/page/franchise/inspiron/dbcs-371801-notebook-inspiron-16-5630-1920x1440-v1.psd?fmt=jpg&wid=1920&hei=1440"
+        },
+        {
+            "id": 2,
+            "name": "Bag",
+            "category": "accessories",
+            "color": "skyblue",
+            "price": 6000,
+            "brand": "American Touristor",
+            "photo": "https://demo.wpthemego.com/themes/sw_himarket/wp-content/uploads/2016/04/1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Samsung next Gen AI",
+            "category": "mobile",
+            "color": "gray",
+            "price": 40000,
+            "brand": "Samsung",
+            "photo": "https://img.freepik.com/free-psd/smartphone-mock-up-isolated_1310-1576.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Typography Printed Cotton T-shirt",
+            "category": "t-shirt",
+            "color": "Navy Blue",
+            "price": 499,
+            "brand": "Bewakoof",
+            "photo": "https://picsum.photos/200/300"
+        }
+    ]
+}
