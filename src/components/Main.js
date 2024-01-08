@@ -5,8 +5,13 @@ import { productList } from '../redux/productAction';
 
 function Main() {
     const dispatch = useDispatch();
+
+    /**
+     * DATA in MAIN Component FROM API Via saga
+     */
     const productData = useSelector((state) => state.productData);
-    console.log('productData:', productData)
+    console.log('Data in Main Component from SAGA = ', productData)
+
     const product = {
         id: 1,
         name: 'Dell Inspiron',
