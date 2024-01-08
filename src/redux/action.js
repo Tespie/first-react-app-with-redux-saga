@@ -10,6 +10,7 @@ export const addToCart = (data) => {
 
 export const removeFromCart = (data) => {
     console.warn('action removeFromCart called and data', data)
+    // data.length = data.length ? data.length - 1 : []
     return {
         type: REMOVE_FROM_CART,
         data
