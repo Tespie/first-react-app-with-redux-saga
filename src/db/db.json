@@ -7,10 +7,19 @@
             "color": "black",
             "price": 75000,
             "brand": "Dell",
-            "photo": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/page/franchise/inspiron/dbcs-371801-notebook-inspiron-16-5630-1920x1440-v1.psd?fmt=jpg&wid=1920&hei=1440"
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7FOsBBgSmMXLBO9bYJ0AGMrip9ZSMTT7ha15aVkRaFyvV30LkZS-HNzaTYH6zWIJCKiM&usqp=CAU"
         },
         {
             "id": 2,
+            "name": "Tjs Always ON Laptop",
+            "category": "laptop",
+            "color": "black",
+            "price": 99999,
+            "brand": "tjs",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-hMdwUOPruAHrE3piOFzsBoF_BeVBk9GmCEuOwFT5nQledAd9-XhnwF92UCzZ84Tm2zE&usqp=CAU"
+        },
+        {
+            "id": 3,
             "name": "Bag",
             "category": "accessories",
             "color": "skyblue",
@@ -19,7 +28,7 @@
             "photo": "https://demo.wpthemego.com/themes/sw_himarket/wp-content/uploads/2016/04/1.jpg"
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Samsung next Gen AI",
             "category": "mobile",
             "color": "gray",
@@ -28,12 +37,21 @@
             "photo": "https://img.freepik.com/free-psd/smartphone-mock-up-isolated_1310-1576.jpg"
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Typography Printed Cotton T-shirt",
             "category": "t-shirt",
             "color": "Navy Blue",
             "price": 499,
             "brand": "Bewakoof",
+            "photo": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/r/l/u/m-hoode-t-blue-m-eddicted-original-imagsgtau6bfqscv.jpeg?q=70"
+        },
+        {
+            "id": 6,
+            "name": "I am Unstopablle",
+            "category": "wallpaper",
+            "color": "purple",
+            "price": 15387,
+            "brand": "Lorem",
             "photo": "https://picsum.photos/200/300"
         }
     ]
