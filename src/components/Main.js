@@ -54,6 +54,7 @@ function Main() {
                     data.map((item) => <div key={item.id} className='product-item'>
                         {/* <img src={item.photo} /> */}
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7FOsBBgSmMXLBO9bYJ0AGMrip9ZSMTT7ha15aVkRaFyvV30LkZS-HNzaTYH6zWIJCKiM&usqp=CAU" />
+                        <div>id : {item.id}  </div>
                         <div>Name : {item.name}  </div>
                         <div>category : {item.category}  </div>
                         <div>color : {item.color}  </div>
