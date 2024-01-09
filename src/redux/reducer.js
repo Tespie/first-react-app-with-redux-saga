@@ -12,7 +12,7 @@ export const cartData = (data = [], action) => {
              */
             // data.length = data.length ? data.length - 1 : [] // Commented Because this is causing error : 
 
-            const remainingItem = data.filter((item) => item.id != action.data)
+            const remainingItem = data.filter((item) => item.id !== action.data)
             console.log('remainingItem = ', remainingItem.length)
             return [...remainingItem];
 
