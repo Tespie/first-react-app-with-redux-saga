@@ -1,4 +1,4 @@
-import { PRODUCT_LIST, SET_PRODUCT_LIST } from "./constant"
+import { PRODUCT_LIST, SEARCH_PRODUCT } from "./constant"
 
 // export const productList = async () => {
 export const productList = () => {
@@ -21,5 +21,13 @@ export const productList = () => {
     return {
         type: PRODUCT_LIST,
         // data: "filhal to ye hi hain" // This is also dont needed because saga is returning data to reducer now
+    }
+}
+
+export const productSearch = (query) => {
+    console.log('action productSearch called for query = ', query)
+    return {
+        type: SEARCH_PRODUCT,
+        query
     }
 }
